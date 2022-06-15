@@ -35,6 +35,12 @@
 ## Roadmap:
 > Future improvements such as more interactivity, game variants, and game notifications indicating good/bad moves are in the plans.
 
+    I'd like to implement two features: game variants and game notifications for good/bad moves.
+    
+    1) Game Variants - I would create a drop-down option with a button that updated the board to include more squares based on the user's selection. This would render more squares on the board. In doing this, I would also need to update the logic for how a winner is determined to reflect the changes of the board.
+
+    2) Game Notifications - I would create game notifications to identify when a player made a good or bad move. Since Tic-Tac-Toe is a rather simple game, the logic could determine if a move will likely lead to a win, tie, or loss. This could also be used for beginners to learn how to play the game better.
+
 ## License:
 > MIT License
 >
